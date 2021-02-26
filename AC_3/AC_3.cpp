@@ -286,8 +286,6 @@ bool AC_3(vector<edge>& arcs, map<int, int> assignment)
 		}
 	}
 
-	//check all the values that have single domain and add to assignments if not exists
-
 	return true;
 }
 
