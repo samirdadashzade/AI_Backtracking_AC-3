@@ -1,0 +1,14 @@
+﻿  InformedSearch.cpp
+C:\Users\sdadashzada\Documents\{ Samir }\Personal\Education\ADA\{{ Study }}\II semester\Artificial Intelligence (6511)\Assignments\Assignment1\AI_Informed_Search\Assignment1\InformedSearch.cpp(163,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sdadashzada\Documents\{ Samir }\Personal\Education\ADA\{{ Study }}\II semester\Artificial Intelligence (6511)\Assignments\Assignment1\AI_Informed_Search\Assignment1\InformedSearch.cpp(186,36): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sdadashzada\Documents\{ Samir }\Personal\Education\ADA\{{ Study }}\II semester\Artificial Intelligence (6511)\Assignments\Assignment1\AI_Informed_Search\Assignment1\InformedSearch.cpp(204,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sdadashzada\Documents\{ Samir }\Personal\Education\ADA\{{ Study }}\II semester\Artificial Intelligence (6511)\Assignments\Assignment1\AI_Informed_Search\Assignment1\InformedSearch.cpp(209,27): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Assignment1.vcxproj -> C:\Users\sdadashzada\Documents\{ Samir }\Personal\Education\ADA\{{ Study }}\II semester\Artificial Intelligence (6511)\Assignments\Assignment1\AI_Informed_Search\x64\Debug\Assignment1.exe
